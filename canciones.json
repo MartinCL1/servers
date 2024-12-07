@@ -1,0 +1,23 @@
+{
+  "canciones": [
+    {
+      "id": 0,
+      "nombre": "Eyes Without a Face",
+      "autor": "Billy Idol",
+      "calificacion": 0,
+      "reproducciones": 0
+    },
+    {
+      "id": 1,
+      "nombre": "Nikita",
+      "autor": "Elton John",
+      "calificacion": 0,
+      "reproducciones": 0
+    },
+    {
+      "id": 2,
+      "name": "Who Can It Be Now",
+      "autor": "Men at Work"
+    }
+  ]
+}
